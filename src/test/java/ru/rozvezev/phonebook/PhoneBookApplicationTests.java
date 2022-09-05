@@ -1,10 +1,10 @@
-package ru.rozvezev.springsecurityfirstapp;
+package ru.rozvezev.phonebook;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringSecurityFirstAppApplicationTests {
+class PhoneBookApplicationTests {
 
     @Test
     void contextLoads() {
