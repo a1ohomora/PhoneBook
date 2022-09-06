@@ -13,6 +13,6 @@
     <img src="src/main/resources/static/dialog_window.jpg" alt="dialog_window">
 </div>
 <br>
-<div>-Для того, чтобы запустить приложение на вашем хосте, вам необходимо создать файл<i>application.properties</i> в папке 
-<i>/src/main/resources/</i> с данными для подключения к БД (шаблон - file <i>application.properties.origin</i>
+<div>-Для того, чтобы запустить приложение на вашем хосте, вам необходимо создать файл <i>application.properties</i> в папке 
+<i>/src/main/resources/</i> с данными для подключения к БД (шаблон - файл <i>application.properties.origin</i>
 в той же папке)</div>
